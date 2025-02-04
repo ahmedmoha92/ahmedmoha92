@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studiying computer science at faculty of science "Semlalia" Marrakech
+- 🔭 I’m currently studying computer science at faculty of science "Semlalia" Marrakech
 - 🌱 I’m currently learning PHP and Artificielle Intelligence.
 - 💬 Ask me about almost all computer science subjects.
 - 📫 How to reach me: Ginkedin or Github
